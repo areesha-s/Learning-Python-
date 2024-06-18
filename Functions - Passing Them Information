@@ -1,0 +1,5 @@
+def greet_user(name):
+    print("Hello,", name, "welcome to the world of functions!")
+
+# Calling the function with an argument
+greet_user("Areesha")
